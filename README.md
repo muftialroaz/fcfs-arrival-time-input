@@ -1,6 +1,6 @@
 # FCFS CPU Scheduling #
 
-Program FCFS dengan arrival time berbeda dan diinput melalui terminal.
+Program FCFS dengan arrival time berbeda dan arrival sama dengan input melalui terminal.
 <br><br>
 _G64170032	Mufti Alfarokhul Azam <br>
 G64170078	Rabbani Elha Ahmad <br>
