@@ -1,8 +1,6 @@
 # FCFS CPU Scheduling #
 ## FCFS dengan arrival time berbeda ##
 
-**KOM 311 Sistem Operasi (Operating System)**
-
 _G64170032	Mufti Alfarokhul Azam <br>
 G64170078	Rabbani Elha Ahmad <br>
 G64170085	Rian Ardiana Prapanca <br>
